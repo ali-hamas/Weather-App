@@ -48,7 +48,7 @@ To get a local copy of this project up and running, follow these steps:
 2. Open the project directory:
 
    ```bash
-   cd Weather App
+   cd Weather-App
    ```
 
 3. Open the `index.html` file in your web browser to view the Weather Forecast App.
